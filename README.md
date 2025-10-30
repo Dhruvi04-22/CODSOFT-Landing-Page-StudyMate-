@@ -109,7 +109,3 @@ You are free to view, use, and reference the code for learning or personal devel
 ---
 
 ⭐ *If you like this project, consider giving it a star on GitHub!* 🌟
-
-```
-
----
