@@ -86,9 +86,9 @@ This project was created as part of an **internship task / personal portfolio** 
 
 **Dhruvi Mistry** 
 
-📧 Email: [Contact](damistry55@gmail.com)
+📧 Email: [Contact](mailto:damistry55@gmail.com)
 
-🌐 LinkedIn Profile: [Dhruvi Mistry](www.linkedin.com/in/dhruvimistry4)
+🌐 LinkedIn Profile: [Dhruvi Mistry](https://www.linkedin.com/in/dhruvimistry4/)
 
 💼 Portfolio Website: [View Portfolio](https://dhruvi04-22.github.io/CODSOFT-Portfolio/)
 
